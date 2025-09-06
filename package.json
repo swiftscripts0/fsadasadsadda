@@ -1,5 +1,11 @@
 {
+  "name": "movie-proxy-server",
+  "version": "1.0.0",
+  "main": "index.js",
   "type": "module",
+  "scripts": {
+    "start": "node test.js"
+  },
   "dependencies": {
     "axios": "^1.11.0",
     "cheerio": "^1.1.2",
